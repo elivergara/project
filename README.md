@@ -32,7 +32,7 @@ While it was designed with cooking recipes in mind, this can apply to any other 
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elivergara/digital-recipe-book.git
+   git clone https://github.com/elivergara/project.git
    ```
 2. Navigate to the project directory:
    ```bash
