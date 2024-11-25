@@ -36,7 +36,7 @@ def main():
     print(f.renderText("Goodbye!"))
 
 def main_menu():
-    """ Initiate the program asking the ruser to register or to enter the program"""
+    """ Initiate the program asking the user to register or to enter the program"""
     print(f.renderText("Welcome to your digital Recipe Book"))
     while True:  
         print("\nMain Menu\n")
